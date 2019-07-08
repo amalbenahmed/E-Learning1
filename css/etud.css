@@ -1,0 +1,19 @@
+
+.text-center {
+    background-color: #23345C;
+}
+.sign{
+    color: wheat;
+    font-family: 'Coustard', serif;
+    text-align: center;
+    font-size: 300%;
+}
+.btn-primary{
+    background-color: #D75B66;
+border-color: #D75B66;
+}
+.btn-block:hover{
+    background-color: #D75B66;
+    border: #D75B66;
+
+}

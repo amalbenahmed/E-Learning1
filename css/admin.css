@@ -1,0 +1,18 @@
+
+.text-center {
+    background-color: #F1BA48;
+}
+.sign{
+    font-family: 'Coustard', serif;
+    text-align: center;
+    font-size: 300%;
+}
+.btn-primary{
+    background-color: #C8C8A9;
+border-color: bisque;
+}
+.btn-block:hover{
+    background-color: #BFAFA0;
+    border: #BFAFA0;
+
+}

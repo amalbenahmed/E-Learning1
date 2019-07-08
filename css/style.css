@@ -1,0 +1,42 @@
+
+
+  
+.b{
+    
+    background: #D75B66;
+
+}
+
+.text{
+    font-family: 'Coustard', serif;
+    text-align: center;
+    color: #23345C;
+    margin-top: 5%;
+    
+}
+
+.admin{
+    background: #F1BA48;
+    margin-right: 50%;
+    margin-left: 40%;
+    margin-top: 4%;
+    margin-bottom: 0.5%;
+    border-color:#F1BA48;
+}
+.prof{
+    background:  #BFAFA0;
+    margin-right: 50%;
+    margin-left: 40%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    border-color: #BFAFA0;
+
+}
+.etud{
+    background: #23345C;
+    margin-right: 50%;
+    margin-left: 40%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    border-color:#23345C;
+}
